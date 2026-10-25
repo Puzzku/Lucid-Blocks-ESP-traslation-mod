@@ -1,5 +1,5 @@
 # Lucid-Blocks-ESP-traslation-mod
-# Lucid Blocks en Español by NeuroMK2
+# Lucid Blocks en Español by Puzzku
 
 **Lucid Blocks en Español** es un mod de traducción al español para *Lucid Blocks*, desarrollado para adaptar la experiencia de juego a los jugadores hispanohablantes.
 
